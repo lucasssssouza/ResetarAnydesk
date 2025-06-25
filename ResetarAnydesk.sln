@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResetarAnydesk", "ResetarAnydesk.csproj", "{3704CE14-83FC-40B3-9E59-21E924CAFA12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3704CE14-83FC-40B3-9E59-21E924CAFA12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3704CE14-83FC-40B3-9E59-21E924CAFA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3704CE14-83FC-40B3-9E59-21E924CAFA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3704CE14-83FC-40B3-9E59-21E924CAFA12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FCB9501-3567-4D7A-A339-A10FD709E6A1}
+	EndGlobalSection
+EndGlobal
